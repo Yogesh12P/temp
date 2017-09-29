@@ -1,0 +1,27 @@
+
+body {
+	background-image: backGround.jpg;
+}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 100%;
+    line-height: 1.2;
+}
+table {
+	color : white;
+	opacity: 0.7;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    box-shadow: 5px 10px 10px black;
+    border-spacing: 1em;
+}
+
+img {
+	opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
